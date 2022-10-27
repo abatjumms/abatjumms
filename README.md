@@ -5,9 +5,10 @@
 <p align="left">
 <a href="https://twitter.com/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abatjumms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abatjumms" height="30" width="40" /></a>
+<a href="https://tumblr.com/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="abatjumms" height="30" width="40" /></a>
+<a href="https://discord.com/channels/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abatjumms" height="30" width="40" /></a>
 <a href="https://fb.com/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abatjumms" height="30" width="40" /></a>
 <a href="https://instagram.com/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abatjumms" height="30" width="40" /></a>
-<a href="https://snapchat.com/add/abatjumms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="abatjumms" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/smmujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smmujtaba" height="30" width="40" /></a>
 </p>
 
